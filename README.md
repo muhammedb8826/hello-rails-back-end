@@ -116,7 +116,7 @@ To start the project execute this command
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Muhammed B**
+👤 **Muhammed B **
 
 - GitHub: [@githubhandle](https://github.com/muhammedb8826)
 - Twitter: [@twitterhandle](https://twitter.com/muhammedb8826)
